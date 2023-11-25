@@ -18,5 +18,6 @@ string [] symbol(string [] stringArray)
         if(stringArray[i].Length <=3)
         count++;
     }
+    string [] result = new string [count];
 }
 
