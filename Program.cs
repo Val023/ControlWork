@@ -28,5 +28,6 @@ string [] symbol(string [] stringArray)
             count2++;
         }
     }
+    return result;
 }
 
