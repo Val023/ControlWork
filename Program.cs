@@ -10,4 +10,5 @@ void Array(string [] stringArray)
         stringArray[i] = Console.ReadLine();
     }
 }
+string [] symbol(string [] stringArray)
 
