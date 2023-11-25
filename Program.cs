@@ -19,5 +19,14 @@ string [] symbol(string [] stringArray)
         count++;
     }
     string [] result = new string [count];
+    int count2 = 0;
+    for (int i = 0;i<stringArray.Length;i++)
+    {
+        if(stringArray[i].Length <=3)
+        {
+            result[count2] = stringArray[i];
+            count2++;
+        }
+    }
 }
 
