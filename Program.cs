@@ -30,4 +30,15 @@ string [] symbol(string [] stringArray)
     }
     return result;
 }
+void PrintArray(string [] stringArray)
+{
+    Console.Write("[");
+    for (int i = 0;i<stringArray.Length;i++)
+    {
+        Console.Write($"'{stringArray[i]}', ");
+    }
+    Console.Write("]");
+}
+Array(stringArray);
+PrintArray(symbol(stringArray));
 
