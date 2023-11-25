@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Контрольная по основному блоку\bin\Debug\net6.0\Контрольная по основному блоку.exe
+C:\Users\user\Desktop\Контрольная по основному блоку\bin\Debug\net6.0\Контрольная по основному блоку.deps.json
+C:\Users\user\Desktop\Контрольная по основному блоку\bin\Debug\net6.0\Контрольная по основному блоку.runtimeconfig.json
+C:\Users\user\Desktop\Контрольная по основному блоку\bin\Debug\net6.0\Контрольная по основному блоку.dll
+C:\Users\user\Desktop\Контрольная по основному блоку\bin\Debug\net6.0\Контрольная по основному блоку.pdb
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.AssemblyInfo.cs
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.dll
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\refint\Контрольная по основному блоку.dll
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.pdb
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\Контрольная по основному блоку.genruntimeconfig.cache
+C:\Users\user\Desktop\Контрольная по основному блоку\obj\Debug\net6.0\ref\Контрольная по основному блоку.dll
